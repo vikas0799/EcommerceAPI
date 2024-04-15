@@ -45,7 +45,7 @@ function User() {
     }
   return (
     <>
-    {/* <h1>user componet</h1> */}
+    <h1>shopping appplication using Reactjs</h1>
     <Products arr={arr}  deleteItem={deleteItem}/>
       {/* <h1>user componnet</h1>
       <div>
